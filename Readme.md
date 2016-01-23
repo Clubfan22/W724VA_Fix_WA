@@ -8,6 +8,11 @@ This however only persists until the next reboot of your router. Then you have t
 ###Usage
 Just start the jar file.
 
+###Used libraries
+
+* [Google GSON](https://github.com/google/gson)
+* [Apache HttpClient](https://hc.apache.org/httpcomponents-client-ga/index.html) 
+
 ##Disclaimer
 Please make sure to backup your current settings (through the webinterface).
 I am not affiliated to either Deutsche Telekom nor WhatsApp, all trademarks belong to them.
