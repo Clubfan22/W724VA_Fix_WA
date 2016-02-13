@@ -1,3 +1,6 @@
+#Notice
+With the release of the [05011603.00.009](https://www.telekom.de/hilfe/geraete-zubehoer/router/speedport-w-724v/firmware-fuer-den-speedport-w-724v-typ-a) firmware, the problem has been fixed by the manufacturer. This program is not needed anymore but it will remain on GitHub for documentary purposes.
+
 ##General
 This Java program is intended to "fix" Speedport W724V Typ A's misrouting of packets to destinations in the 169.0.0.0 subnet.
 Due to wrong settings by the manufacturer, any packet gets routed to the router itself, and thus does not reach its intended endpoint.
